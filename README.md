@@ -1,7 +1,7 @@
 # Stock-price-prediction
 TOMMY STUDIO
 
-키움 REST API 사용
+API 사용
 
 과거 주가 패턴 정보 수집
 그리고 향후 주가 예측 알고리즘 설계
